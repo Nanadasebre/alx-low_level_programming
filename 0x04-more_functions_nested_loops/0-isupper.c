@@ -1,6 +1,5 @@
 nclude "main.h"
 
-
 /**
  * _isupper - checks for uppercase
  * @c: character to checked for case
